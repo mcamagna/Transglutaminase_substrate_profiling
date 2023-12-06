@@ -1,0 +1,3 @@
+The original PWM search was written by H Nakano 20220908.
+The PWM search algorithm was written by Soki Nakano.
+Improvements to PWM search and Random Forest related code was written by Maurizio Camagna
